@@ -35,3 +35,8 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate --seed
 php artisan serve
+
+<img width="1600" height="712" alt="WhatsApp Image 2026-11-02 at 17 53 36" src="https://github.com/user-attachments/assets/2a83afdc-09f9-4117-b000-bdb6ff5876e0" />
+<img width="1600" height="751" alt="WhatsApp Image 2026-11-02 at 17 53 17" src="https://github.com/user-attachments/assets/16a53ae7-aaeb-4358-9ff3-6674d008ed14" />
+<img width="1600" height="749" alt="WhatsApp Image 2026-11-02 at 17 53 02" src="https://github.com/user-attachments/assets/a027161a-c38e-4ed2-a174-b32bc86dcb2f" />
+
