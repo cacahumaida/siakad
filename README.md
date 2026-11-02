@@ -25,6 +25,11 @@ Pastikan Anda sudah menginstal:
 - Composer
 - MySQL / MariaDB
 
+  <img width="1600" height="749" alt="WhatsApp Image 2026-11-02 at 17 53 02" src="https://github.com/user-attachments/assets/7d1c83f3-3b04-4c5a-8461-c2f52f689e3f" />
+<img width="1600" height="712" alt="WhatsApp Image 2026-11-02 at 17 53 36" src="https://github.com/user-attachments/assets/374b9d60-663c-4dce-9acf-81ee337d84b8" />
+<img width="1600" height="751" alt="WhatsApp Image 2026-11-02 at 17 53 17" src="https://github.com/user-attachments/assets/ef8ae689-f144-4dae-a6e0-c611a6adfeed" />
+
+
 ## 🚀 Cara Menjalankan
 
 ```bash
