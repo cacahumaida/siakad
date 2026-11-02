@@ -1,41 +1,37 @@
-📚 Laravel SIAKAD SMK
-Sistem Informasi Akademik Digital (SIAKAD) berbasis Laravel untuk kebutuhan pengelolaan data siswa, guru, kelas, jurusan, dan berita sekolah pada tingkat SMK
+📚 Laravel SIAKAD SMP IT Ma’arif
+
+Sistem Informasi Akademik Digital (SIAKAD) berbasis Laravel yang dikembangkan untuk menyederhanakan dan mengintegrasikan pengelolaan data administrasi sekolah di SMP IT Ma’arif Padang Panjang.
 
 🚀 Fitur Utama
 
-✅ Manajemen Data Siswa (CRUD)
+✅ Manajemen Data Siswa & Guru (CRUD)
+✅ Pengelolaan Mata Pelajaran & Jadwal Pelajaran
+✅ Sistem Manajemen Absensi & Penilaian (Grading)
+✅ Penerimaan Peserta Didik Baru (PPDB)
+✅ Pembagian & Manajemen Kelas
+✅ Cetak Rapor Digital & Laporan Akademik
+✅ Dashboard Administrasi Sekolah
 
-✅ Manajemen Data Guru (CRUD)
+🛠️ Teknologi yang Digunakan
 
-✅ Manajemen Jurusan dan Kelas
-
-✅ Pengelolaan Berita Sekolah
-
-✅ Autentikasi Login
-
-✅ Dashboard Admin
-
-✅ Cetak Laporan Siswa dan Guru
+- Framework: Laravel (PHP)
+- Database: MySQL
+- Frontend: HTML5, CSS3, Bootstrap, JavaScript
 
 📦 Cara Install & Menjalankan Proyek
 
 Pastikan Anda sudah menginstal:
-
-PHP >= 8.1
-
-Composer
-
-MySQL / MariaDB
+- PHP >= 8.1
+- Composer
+- MySQL / MariaDB
 
 ## 🚀 Cara Menjalankan
 
 ```bash
-git clone https://github.com/pahmii220/AKADEMIK-Laravel.git
-cd AKADEMIK-Laravel
+git clone [https://github.com/raisahumaida/SIAKAD-SMP-Maarif.git](https://github.com/raisahumaida/SIAKAD-SMP-Maarif.git)
+cd SIAKAD-SMP-Maarif
 composer install
-npm install
 cp .env.example .env
 php artisan key:generate
-php artisan migrate
-npm run dev
+php artisan migrate --seed
 php artisan serve
